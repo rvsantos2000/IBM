@@ -1,4 +1,4 @@
 # IBM 
-## Aplied Data Science Capstone
+## Applied Data Science Capstone
 ### Rafael Valle dos Santos
 ### June/2022
